@@ -3,11 +3,14 @@
 
 ---
 
-
+<details>
 <summary>
-[Projecte 1 - Arranquem](https://drive.google.com/drive/u/0/folders/1kWPqC6dtTNNDTFTyEsleRJbqOub-NWv_)
+<a href="[https://github.com](https://drive.google.com/drive/u/0/folders/1kWPqC6dtTNNDTFTyEsleRJbqOub-NWv_)" target="_blank">Projecte 1 - Arranquem</a>
 </summary>
-- T01
+
+Contenido desplegable aquí.
+
+</details>
 
 ### [Projecte 2 - Consultoria Everpia](https://github.com/edugordo/Projecte2_EverPIA)
 ### [Projecte 3 - Consultoria Everpia II: Sobreviure  una empresa IT](https://github.com/edugordo/Projecte3_Sobreviure_a_una_empresa_IT)
