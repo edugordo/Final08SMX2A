@@ -204,6 +204,8 @@
 | Exploració de Xarxes |
 | Activitat SAMBA |
 | Wireshark |
+| Activitat WiFi |
+| NAT i VPN |
 
 
 </details>
