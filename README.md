@@ -77,14 +77,22 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01 - Kanban Cakes | P01 Simulació d'un projecte web fent servir kanban |
-| T02 - Vull crear la meva propia empresa | P02 - Màquina Virtual Ubuntu Server |
-| T03 - Hosting, Naming i Fonaments Web | P03 - Presentació de seguretat |
-| T04 - Recordant les xarxes TCP/IP | |
-| T05 - Repàs comandes Linux | |
-| T06 - Introducció a la seguretat informàtica | |
-| T07 - Seguretat en l'entorn Fìsic | |
-| T08 - Sostenibilitat | |
+| T01: DRP: còpies de seguretat. Estudi cas client | P01: GitHub. Treballant de forma col·laborativa: forks i pull request |
+| T02: DPR: còpies de seguretat | P02: Presentació i Projecció de la Maqueta web al Client |
+| T03: Pla de recuperació davant desastres: imatges del sistema | P03: Kanban del projecte |
+| T04: Accés remot | P04: Fitxes d’Economia Circular |
+| T05: Accés Remot. Connexió via SSH | |
+| T06: Accés remot. Escriptori remot (RDP) | |
+| T07: Accés remot. Serveis d’assistència remota | |
+| T08: Auditoria de Qualitat i Estandardització de Servidors | |
+| T09: Servidor fitxers Linux. NFS | |
+| T10: Servidor impressió Linux. CUPS | |
+| T11: Introducció a Figma: nocions bàsiques de disseny d’interfícies |  |
+| T12: Fonaments del Disseny Web Comercial: Landing Page + Procés de Checkout |  |
+| T13: Disseny d’un E-commerce en Figma (Landing Page + Checkout) |  |
+| T14: Sostenibilitat. Prova Escrita |  |
+| T15: Com de circular és la meva família professional? |  |
+| T16:  Crea el teu pla d’empresa TECH |  |
 
 </details>
 
