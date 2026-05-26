@@ -123,14 +123,20 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01 - Kanban Cakes | P01 Simulació d'un projecte web fent servir kanban |
-| T02 - Vull crear la meva propia empresa | P02 - Màquina Virtual Ubuntu Server |
-| T03 - Hosting, Naming i Fonaments Web | P03 - Presentació de seguretat |
-| T04 - Recordant les xarxes TCP/IP | |
-| T05 - Repàs comandes Linux | |
-| T06 - Introducció a la seguretat informàtica | |
-| T07 - Seguretat en l'entorn Fìsic | |
-| T08 - Sostenibilitat | |
+| T01: Sota el Capó d'Internet: Què passa realment quan fas clic a un enllaç? | P01: Producte final memòria tècnica de la proposta |
+| T02: Missió Apache: Desplegament Multidomini i segur | P02: Presentació de la proposta al client |
+| T03: Missió Nginx: Migració d'Alt Rendiment i Arquitectura Lleugera | P03: Estructura repositori |
+| T04: Duel de titans, Apache vs Nginx | |
+| T05: Top Secret, protegint els secrets | |
+| T06: Projecte Nexus. Implantació de PKI i Signatura Digital Corporativa | |
+| T07: TransLògic: Administració Avançada i Seguretat Corporativa | |
+| T08: Vigilància i auditoria de sistemes | |
+| T09: Creació d’una acadèmia amb un cursos de Sostenibilitat i IPO2 | |
+| T10: Canvas LMS una alternativa a Moodle | |
+| T11: Comparativa Moodle vs Canvas LMS | |
+| T12: Curs Moodle “Serà rendible el meu futur negoci?” | |
+| T13: Omplim el curs de sostenibilitat | |
+
 
 </details>
 
