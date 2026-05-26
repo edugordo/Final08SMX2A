@@ -90,7 +90,7 @@
 
 ---
 
-### [Projecte 5 - La Incubadora](https://github.com/classesSMX2n/projecte5-edugordo)
+### [Projecte 5 - La Incubadora](https://github.com/edugordo/projecte5-edugordo)
 
 <details>
 
@@ -113,7 +113,7 @@
 
 ---
 
-### [Projecte 6 - Projecte NEXUS](https://github.com/classesSMX2n/projecte6-edugordo)
+### [Projecte 6 - Projecte NEXUS](https://github.com/edugordo/projecte6-edugordo)
 
 <details>
 
@@ -136,7 +136,7 @@
 
 ---
 
-### [Projecte 7 - Food Logístics S.A.](https://github.com/classesSMX2n/projecte-7-edugordo)
+### [Projecte 7 - Food Logístics S.A.](https://github.com/edugordo/projecte-7-edugordo)
 
 <details>
 
@@ -159,7 +159,7 @@
 
 ---
 
-### [Projecte 8 - Connecta't al Futur: El repte de la digitalització real](https://github.com/classesSMX2n/projecte-8-edugordo)
+### [Projecte 8 - Connecta't al Futur: El repte de la digitalització real](https://github.com/edugordo/projecte-8-edugordo)
 
 <details>
 
