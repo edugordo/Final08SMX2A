@@ -187,7 +187,28 @@
 
 ---
 
-### [Projecte 8 - Connecta't al Futur: El repte de la digitalització real](https://github.com/edugordo/projecte-8-edugordo)
+### [Projecte 8 - Connecta't al Futur: El repte de la digitalització real (GitHub Individual)](https://github.com/edugordo/Projecte8SMX2A)
+
+<details>
+
+<summary>Desplega per veure les Tasques</summary>
+
+---
+
+| Tasques |
+|---|
+| Client 3: ONG "Horitzons Digitals" |
+| TALLAFOCS: UFW |
+| Integració Linux a AD |
+| IPFire - WebProxy |
+| Exploració de Xarxes |
+| Activitat SAMBA |
+| Wireshark |
+
+
+</details>
+
+### [Projecte 8 - Connecta't al Futur: El repte de la digitalització real (GitHub Grup)](https://github.com/edugordo/projecte-8-edugordo)
 
 <details>
 
@@ -200,7 +221,6 @@
 | Client 3: ONG "Horitzons Digitals" |
 | Tasca 01: Analitzar necessitats clients |
 | Tasca 02: Pla de sostenibilitat |
-
 
 </details>
 
