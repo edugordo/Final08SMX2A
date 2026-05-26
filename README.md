@@ -54,14 +54,16 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01 - Kanban Cakes | P01 Simulació d'un projecte web fent servir kanban |
-| T02 - Vull crear la meva propia empresa | P02 - Màquina Virtual Ubuntu Server |
-| T03 - Hosting, Naming i Fonaments Web | P03 - Presentació de seguretat |
-| T04 - Recordant les xarxes TCP/IP | |
-| T05 - Repàs comandes Linux | |
-| T06 - Introducció a la seguretat informàtica | |
-| T07 - Seguretat en l'entorn Fìsic | |
-| T08 - Sostenibilitat | |
+| T01: Gestor de contrasenyes | P01: Kanban del projecte |
+| T02: Gestió emmagatzematge | P02: Repositori de GitHub |
+| T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge) | P03: Rèplica web |
+| T04: Serveis de directori. LDAP | P04: Documentació servidor DNS |
+| T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria | P05: Presentació sistemes emmagatzematge |
+| T06: Fonaments del servei DNS | P06: Vídeo. Fonaments DNS |
+| T07: Instal·lant un servidor de noms | P07: ASG a EverPia: informe visual per a inversors |
+| T08:  Sitemaps i Estructura d’una pàgina web | |
+| T09: ODS i el sector IT: el costat sostenible d’EverPia | |
+| T10:  ASG - Relació ODS i ASG | |
 
 </details>
 
