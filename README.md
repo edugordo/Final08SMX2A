@@ -100,14 +100,16 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01 - Kanban Cakes | P01 Simulació d'un projecte web fent servir kanban |
-| T02 - Vull crear la meva propia empresa | P02 - Màquina Virtual Ubuntu Server |
-| T03 - Hosting, Naming i Fonaments Web | P03 - Presentació de seguretat |
-| T04 - Recordant les xarxes TCP/IP | |
-| T05 - Repàs comandes Linux | |
-| T06 - Introducció a la seguretat informàtica | |
-| T07 - Seguretat en l'entorn Fìsic | |
-| T08 - Sostenibilitat | |
+| T01: Disseny de la Solució Tècnica Integrada | P01: Control de versions. GitHub Classroom i git |
+| T02: Control de versions. Treballant amb git | P02: Llicenciament Windows Server 2025 |
+| T03: Serveis de transferència de fitxers | P03: Presentació empresa amb visió Green IT |
+| T04: Instal·lació Windows Server 2025 | |
+| T05: Instal·lació del domini | |
+| T06: Configuració del domini | |
+| T07: Acadèmia feta amb Moodle | |
+| T08: Seguretat: protegint-nos contra el malware | |
+| T09: Seguretat: les vulnerabilitats dels sistemes | |
+| T10: Introducció al concepte Green IT | |
 
 </details>
 
