@@ -32,14 +32,20 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01 - Kanban Cakes | P01 Simulació d'un projecte web fent servir kanban |
-| T02 - Vull crear la meva propia empresa | P02 - Màquina Virtual Ubuntu Server |
-| T03 - Hosting, Naming i Fonaments Web | P03 - Presentació de seguretat |
-| T04 - Recordant les xarxes TCP/IP | |
-| T05 - Repàs comandes Linux | |
-| T06 - Introducció a la seguretat informàtica | |
-| T07 - Seguretat en l'entorn Fìsic | |
-| T08 - Sostenibilitat | |
+| T01: Control de versions amb git i GitHub | P01: Kanban & Compte de Github |
+| T02: Selecció d’un SAI per una empresa client | P02: Afegint la documentació de seguretat al repositori  |
+| T03: Seguretat Lògica: recuperant accés a sistemes | P03: Presentació d’elecció de hosting al nostre client |
+| T04: Configurant i administrant un servidor Linux | |
+| T05: El servei de DHCP: introducció teòrica | |
+| T06: El servei de DHCP: configuració pràctica | |
+| T07: Idea de negoci responsable socialment | |
+| T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web | |
+| T09: Donar-se d’alta en un hosting gratuït - Aplicacions Web & PI |  |
+| T10: Màsterclass de Markdown |  |
+| T11: Instal·lació de WordPress en local amb WP Local – Aplicacions Web |  |
+| T12: Sostenibilitat |  |
+
+
 
 </details>
 
