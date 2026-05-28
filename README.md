@@ -85,9 +85,9 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01: DRP: còpies de seguretat. Estudi cas client | P01: GitHub. Treballant de forma col·laborativa: forks i pull request |
-| T02: DPR: còpies de seguretat | P02: Presentació i Projecció de la Maqueta web al Client |
-| T03: Pla de recuperació davant desastres: imatges del sistema | P03: Kanban del projecte |
+| T01: DRP: còpies de seguretat. Estudi cas client | [P01: GitHub. Treballant de forma col·laborativa: forks i pull request](https://github.com/edugordo/Projecte-4-EverPia-iii-) |
+| T02: DPR: còpies de seguretat | [P02: Presentació i Projecció de la Maqueta web al Client](https://www.figma.com/design/JrXBc3UUo4yGwSH3DQMejJ/Pagina-web?m=auto&t=FuLZO373rrelcufR-6) |
+| T03: Pla de recuperació davant desastres: imatges del sistema | [P03: Kanban del projecte(https://planner.cloud.microsoft/webui/plan/qMLbb55Y7EukYZJhDDILMJYAGvtW/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) |
 | T04: Accés remot | P04: Fitxes d’Economia Circular |
 | T05: Accés Remot. Connexió via SSH | |
 | T06: Accés remot. Escriptori remot (RDP) | |
