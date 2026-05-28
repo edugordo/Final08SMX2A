@@ -170,9 +170,9 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01: Coneixent la competència i el sector | P01: Memòria tècnica de la proposta |
-| T02: Creant la proposta de pàgina corporativa | P02: Web corporativa |
-| T03: Servidor de fitxers | P03: Repositori personal |
+| T01: Coneixent la competència i el sector | [P01: Memòria tècnica de la proposta](https://github.com/classesSMX2n/projecte-7-edugordo/tree/main/P01) |
+| T02: Creant la proposta de pàgina corporativa | [P02: Web corporativa](https://edugordo.github.io/web-corporativaP6/) / [Estructura .html](https://github.com/edugordo/web-corporativaP6/blob/main/docs/index.html) |
+| T03: Servidor de fitxers | [P03: Repositori personal](https://github.com/edugordo/projecte-7-edugordo) |
 | T04: Servidor d’impressió | |
 | T05: Vídeo formatiu LOPD empleats | |
 | T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A. | |
