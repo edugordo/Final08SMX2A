@@ -141,9 +141,9 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01: Sota el Capó d'Internet: Què passa realment quan fas clic a un enllaç? | P01: Producte final memòria tècnica de la proposta |
-| T02: Missió Apache: Desplegament Multidomini i segur | P02: Presentació de la proposta al client |
-| T03: Missió Nginx: Migració d'Alt Rendiment i Arquitectura Lleugera | P03: Estructura repositori |
+| T01: Sota el Capó d'Internet: Què passa realment quan fas clic a un enllaç? | [P01: Producte final memòria tècnica de la proposta](https://github.com/edugordo/projecte6-edugordo/tree/main/P01) |
+| T02: Missió Apache: Desplegament Multidomini i segur | [P02: Presentació de la proposta al client](https://docs.google.com/presentation/d/1iJSj88Wjzq3C_AEruNotYtqKTTJTfuVd7PGcGDbb-4w/edit?usp=drive_link) |
+| T03: Missió Nginx: Migració d'Alt Rendiment i Arquitectura Lleugera | [P03: Estructura repositori](https://github.com/edugordo/projecte6-edugordo) |
 | T04: Duel de titans, Apache vs Nginx | |
 | T05: Top Secret, protegint els secrets | |
 | T06: Projecte Nexus. Implantació de PKI i Signatura Digital Corporativa | |
