@@ -10,9 +10,9 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01: Kanban Cakes | P01: Simulació d'un projecte web fent servir kanban |
-| T02: Vull crear la meva propia empresa | P02: - Màquina Virtual Ubuntu Server |
-| T03: Hosting, Naming i Fonaments Web | P03: - Presentació de seguretat |
+| T01: Kanban Cakes | [P01: Simulació d'un projecte web fent servir kanban](https://docs.google.com/presentation/d/1_pq59caFydw4a3HkgrGDaTZOkqzaVl2VMCmfAgTxJeE/edit?usp=sharing) |
+| T02: Vull crear la meva propia empresa | [P02: - Màquina Virtual Ubuntu Server](https://docs.google.com/presentation/d/18miekG6E85yTasaXXZc9buz98nFx1tUdqvTtUNvQXg4/edit?usp=sharing) |
+| T03: Hosting, Naming i Fonaments Web | [P03: - Presentació de seguretat](https://docs.google.com/presentation/d/1HVisFWLJFGI2sg_6f8-reRouA5NmyShhBgy0vcC5u7Q/edit?usp=sharing) |
 | T04: Recordant les xarxes TCP/IP | |
 | T05: Repàs comandes Linux | |
 | T06: Introducció a la seguretat informàtica | |
