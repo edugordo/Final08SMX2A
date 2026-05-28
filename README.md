@@ -32,9 +32,9 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01: Control de versions amb git i GitHub | P01: Kanban & Compte de Github |
-| T02: Selecció d’un SAI per una empresa client | P02: Afegint la documentació de seguretat al repositori  |
-| T03: Seguretat Lògica: recuperant accés a sistemes | P03: Presentació d’elecció de hosting al nostre client |
+| T01: Control de versions amb git i GitHub | [P01: Kanban](https://planner.cloud.microsoft/webui/plan/QzAbIc03cUGNOShHwpKNDJYAGFD6/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) & [Compte de Github](https://github.com/edugordo) |
+| T02: Selecció d’un SAI per una empresa client | [P02: Afegint la documentació de seguretat al repositori](https://github.com/edugordo/Projecte2_EverPIA)  |
+| T03: Seguretat Lògica: recuperant accés a sistemes | [P03: Presentació d’elecció de hosting al nostre client](https://docs.google.com/presentation/d/1IZmx4n5iRDBHJGRp_cFowm5LYQ9dVJnDwjmpqncVbbw/edit?usp=sharing) |
 | T04: Configurant i administrant un servidor Linux | |
 | T05: El servei de DHCP: introducció teòrica | |
 | T06: El servei de DHCP: configuració pràctica | |
