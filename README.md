@@ -60,13 +60,13 @@
 
 | Tasques | Productes Finals |
 |---|---|
-| T01: Gestor de contrasenyes | P01: Kanban del projecte |
-| T02: Gestió emmagatzematge | P02: Repositori de GitHub |
-| T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge) | P03: Rèplica web |
-| T04: Serveis de directori. LDAP | P04: Documentació servidor DNS |
-| T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria | P05: Presentació sistemes emmagatzematge |
-| T06: Fonaments del servei DNS | P06: Vídeo. Fonaments DNS |
-| T07: Instal·lant un servidor de noms | P07: ASG a EverPia: informe visual per a inversors |
+| T01: Gestor de contrasenyes | [P01: Kanban del projecte](https://planner.cloud.microsoft/webui/plan/3I4sSJ7-G0CSu8rIVM-GU5YAG5Tc/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) |
+| T02: Gestió emmagatzematge | [P02: Repositori de GitHub](https://github.com/edugordo/Projecte3_Sobreviure_a_una_empresa_IT) |
+| T03: Gestió flexible de discos (LVM i Espais d’emmagatzematge) | [P03: Rèplica web](http://p03-rplica-web.local/) |
+| T04: Serveis de directori. LDAP | [P04: Documentació servidor DNS](https://github.com/edugordo/Projecte3_Sobreviure_a_una_empresa_IT/blob/main/Tasca06/guia.md) |
+| T05: Anàlisi de l’entorn: possibles models de negoci pels clients tecnològics de la consultoria | [P05: Presentació sistemes emmagatzematge](https://docs.google.com/document/d/1sAIQpVLRSN1IK1ErhD24_Bgrjp9qKHMKt4DZQL5gXrI/edit?usp=sharing) |
+| T06: Fonaments del servei DNS | [P06: Vídeo. Fonaments DNS](https://drive.google.com/file/d/1B9GUgRbvMf8UmWl35so3tlpuvbnFGRSw/view?usp=sharing) |
+| T07: Instal·lant un servidor de noms | [P07: ASG a EverPia: informe visual per a inversors](https://github.com/edugordo/Projecte3_Sobreviure_a_una_empresa_IT/blob/main/Projecte07/Infograf%C3%ADaMedioAmbienteReciclaje3elementosIlustradaPastel.pdf) |
 | T08:  Sitemaps i Estructura d’una pàgina web | |
 | T09: ODS i el sector IT: el costat sostenible d’EverPia | |
 | T10:  ASG - Relació ODS i ASG | |
