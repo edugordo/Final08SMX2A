@@ -118,7 +118,7 @@
 |---|---|
 | T01: Disseny de la Solució Tècnica Integrada | P01: Control de versions. GitHub Classroom i git |
 | T02: Control de versions. Treballant amb git | P02: Llicenciament Windows Server 2025 |
-| T03: Serveis de transferència de fitxers | P03: Presentació empresa amb visió Green IT |
+| T03: Serveis de transferència de fitxers | [P03: Presentació empresa amb visió Green IT](https://drive.google.com/file/d/1n0HLUVL9VQCksJ-BhU27XgbNr-CtWzOG/view?usp=drive_link) |
 | T04: Instal·lació Windows Server 2025 | |
 | T05: Instal·lació del domini | |
 | T06: Configuració del domini | |
